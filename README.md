@@ -20,11 +20,6 @@ It visually presents temperature, humidity, wind speed, and AQI with intuitive, 
 - **Power BI Desktop (.pbix)**
 - **Weather API** (manual/automated data load)
 - **DAX formulas** for KPI coloring and logic
-- **Excel or CSV** as intermediate data storage (optional)
-
----
-
----
 
 ## 🧠 DAX Highlight (AQI Color Logic)
 
